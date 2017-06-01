@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Academic</title>
+    <link>https://alxndrkalinin.github.io/publication/</link>
+    <description>Recent content in Publications on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Alexandr Kalinin</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Opportunities And Obstacles For Deep Learning In Biology And Medicine</title>
+      <link>https://alxndrkalinin.github.io/publication/dl-review/</link>
+      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/publication/dl-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Person Re-Identification System For Mobile Devices</title>
+      <link>https://alxndrkalinin.github.io/publication/person-re-identification/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/publication/person-re-identification/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SOCR data dashboard: an integrated big data archive mashing medicare, labor, census and econometric information</title>
+      <link>https://alxndrkalinin.github.io/publication/socr-dashboard/</link>
+      <pubDate>Fri, 17 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/publication/socr-dashboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probability Distributome: a web computational infrastructure for exploring the properties, interrelations, and applications of probability distributions</title>
+      <link>https://alxndrkalinin.github.io/publication/distributome/</link>
+      <pubDate>Fri, 26 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/publication/distributome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOCRAT Platform Design: A Web Architecture for Interactive Visual Analytics Applications</title>
+      <link>https://alxndrkalinin.github.io/publication/socrat-platform/</link>
+      <pubDate>Thu, 14 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/publication/socrat-platform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile visual clothing search</title>
+      <link>https://alxndrkalinin.github.io/publication/clothing-search/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/publication/clothing-search/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

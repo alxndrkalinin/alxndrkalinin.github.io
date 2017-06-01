@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Academic</title>
+    <link>https://alxndrkalinin.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Alexandr Kalinin</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Convolutional Neural Networks for Biomedical Image Analysis</title>
+      <link>https://alxndrkalinin.github.io/talk/cnn-mdst/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/talk/cnn-mdst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOCRAT Platform Design: A Web Architecture for Interactive Visual Analytics Applications</title>
+      <link>https://alxndrkalinin.github.io/talk/socrat-hilda/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/talk/socrat-hilda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Networks for Biomedical Image Analysis</title>
+      <link>https://alxndrkalinin.github.io/talk/cnn-tt-2017/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/talk/cnn-tt-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://alxndrkalinin.github.io/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Year in Review 2016: Computer Vision Perspective</title>
+      <link>https://alxndrkalinin.github.io/talk/bistro-workflows-2017/</link>
+      <pubDate>Sat, 12 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/talk/bistro-workflows-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
