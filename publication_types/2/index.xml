@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Alexandr Kalinin</copyright>
-    <lastBuildDate>Sun, 28 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pediatric Bone Age Assessment Using Deep Convolutional Neural Networks</title>
+      <link>https://alxndrkalinin.github.io/publication/2017-boneage-dl/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/publication/2017-boneage-dl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D cell nuclear morphology: microscopy imaging dataset and voxel-based morphometry classification results</title>
+      <link>https://alxndrkalinin.github.io/publication/2017-3d-morphometry-data/</link>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/publication/2017-3d-morphometry-data/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Opportunities And Obstacles For Deep Learning In Biology And Medicine</title>

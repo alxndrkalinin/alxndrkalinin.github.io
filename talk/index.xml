@@ -11,6 +11,15 @@
     <atom:link href="/talk/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title> RSNA 2017 Pediatric Bone Age Challenge</title>
+      <link>https://alxndrkalinin.github.io/talk/2017-cft-boneage/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/talk/2017-cft-boneage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Convolutional Neural Networks for Biomedical Image Analysis</title>
       <link>https://alxndrkalinin.github.io/talk/2017-mdst-cnn/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
