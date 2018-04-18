@@ -1,14 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on Academic</title>
+    <title>2 on Alexandr A. Kalinin</title>
     <link>https://alxndrkalinin.github.io/publication_types/2/</link>
-    <description>Recent content in 2 on Academic</description>
+    <description>Recent content in 2 on Alexandr A. Kalinin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Alexandr Kalinin</copyright>
-    <lastBuildDate>Fri, 15 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Apr 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Opportunities And Obstacles For Deep Learning In Biology And Medicine</title>
+      <link>https://alxndrkalinin.github.io/publication/dl-review/</link>
+      <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/publication/dl-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning in Pharmacogenomics: From Gene Regulation to Patient Stratification</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-pgxdl/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/publication/2018-pgxdl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronic Health Records in the United States and Russia: Challenges and Opportunities for Collaborative Leadership</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-surf-ehr/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/publication/2018-surf-ehr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rotational 3D mechanogenomic Turing patterns of human colon Caco-2 cells during differentiation</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-3d-turing-patterns/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/publication/2018-3d-turing-patterns/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Pediatric Bone Age Assessment Using Deep Convolutional Neural Networks</title>
@@ -16,24 +52,6 @@
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://alxndrkalinin.github.io/publication/2017-boneage-dl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>3D cell nuclear morphology: microscopy imaging dataset and voxel-based morphometry classification results</title>
-      <link>https://alxndrkalinin.github.io/publication/2017-3d-morphometry-data/</link>
-      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://alxndrkalinin.github.io/publication/2017-3d-morphometry-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Opportunities And Obstacles For Deep Learning In Biology And Medicine</title>
-      <link>https://alxndrkalinin.github.io/publication/dl-review/</link>
-      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://alxndrkalinin.github.io/publication/dl-review/</guid>
       <description></description>
     </item>
     
