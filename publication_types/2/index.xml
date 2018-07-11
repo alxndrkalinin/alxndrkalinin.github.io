@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Alexandr Kalinin</copyright>
-    <lastBuildDate>Wed, 04 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hypothesis: Caco-2 cell rotational 3D mechanogenomic Turing patterns has clinical implications to colon crypts</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-3d-turing-patterns/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/publication/2018-3d-turing-patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning in Pharmacogenomics: From Gene Regulation to Patient Stratification</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-pgxdl/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/publication/2018-pgxdl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Opportunities And Obstacles For Deep Learning In Biology And Medicine</title>
@@ -20,29 +38,11 @@
     </item>
     
     <item>
-      <title>Deep Learning in Pharmacogenomics: From Gene Regulation to Patient Stratification</title>
-      <link>https://alxndrkalinin.github.io/publication/2018-pgxdl/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://alxndrkalinin.github.io/publication/2018-pgxdl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Electronic Health Records in the United States and Russia: Challenges and Opportunities for Collaborative Leadership</title>
       <link>https://alxndrkalinin.github.io/publication/2018-surf-ehr/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://alxndrkalinin.github.io/publication/2018-surf-ehr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rotational 3D mechanogenomic Turing patterns of human colon Caco-2 cells during differentiation</title>
-      <link>https://alxndrkalinin.github.io/publication/2018-3d-turing-patterns/</link>
-      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://alxndrkalinin.github.io/publication/2018-3d-turing-patterns/</guid>
       <description></description>
     </item>
     

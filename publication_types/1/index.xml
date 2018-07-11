@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Alexandr Kalinin</copyright>
-    <lastBuildDate>Wed, 27 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jul 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Evaluation of Methods for Cell Nuclear Structure Analysis from Microscopy Data</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-aist-evaluation/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/publication/2018-aist-evaluation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep Convolutional Neural Networks for Breast Cancer Histology Image Analysis</title>
@@ -22,7 +31,7 @@
     <item>
       <title>3D Cell Nuclear Morphology: Microscopy Imaging Dataset and Voxel-Based Morphometry Classification Results</title>
       <link>https://alxndrkalinin.github.io/publication/2017-3d-morphometry-data/</link>
-      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://alxndrkalinin.github.io/publication/2017-3d-morphometry-data/</guid>
       <description></description>
