@@ -1,14 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alexandr A. Kalinin on Alexandr A. Kalinin</title>
+    <title>Alexandr A. Kalinin</title>
     <link>https://alxndrkalinin.github.io/</link>
-    <description>Recent content in Alexandr A. Kalinin on Alexandr A. Kalinin</description>
+    <description>Recent content on Alexandr A. Kalinin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Alexandr Kalinin</copyright>
-    <lastBuildDate>Tue, 30 May 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://alxndrkalinin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://alxndrkalinin.github.io/home/about/</link>
+      <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/home/about/</guid>
+      <description>Biography Alexandr Kalinin is a PhD Candidate in Bioinformatics at the University of Michigan. His research interests include understanding of high-dimensional 3D microscope images of cells and their compartments using machine and deep learning, signal processing, high performance computing, etc. He also works on designing and developing web-based tools for interactive data analysis and visualization. He is co-supervised by Dr. Ivo Dinov and Dr. Brian Athey.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://alxndrkalinin.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://alxndrkalinin.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://alxndrkalinin.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hypothesis: Caco-2 cell rotational 3D mechanogenomic Turing patterns has clinical implications to colon crypts</title>
@@ -142,6 +180,33 @@
       <pubDate>Sat, 12 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://alxndrkalinin.github.io/talk/2016-a2dlearn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOCR data dashboard: an integrated big data archive mashing medicare, labor, census and econometric information</title>
+      <link>https://alxndrkalinin.github.io/publication/socr-dashboard/</link>
+      <pubDate>Fri, 17 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/publication/socr-dashboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probability Distributome: a web computational infrastructure for exploring the properties, interrelations, and applications of probability distributions</title>
+      <link>https://alxndrkalinin.github.io/publication/distributome/</link>
+      <pubDate>Fri, 26 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/publication/distributome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust estimation of qualitative response regression models</title>
+      <link>https://alxndrkalinin.github.io/publication/2011-robust-estimation/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/publication/2011-robust-estimation/</guid>
       <description></description>
     </item>
     

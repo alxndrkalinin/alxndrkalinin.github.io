@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Alexandr A. Kalinin</title>
@@ -8,7 +8,45 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Alexandr Kalinin</copyright>
     <lastBuildDate>Tue, 30 May 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://alxndrkalinin.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://alxndrkalinin.github.io/home/about/</link>
+      <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/home/about/</guid>
+      <description>Biography Alexandr Kalinin is a PhD Candidate in Bioinformatics at the University of Michigan. His research interests include understanding of high-dimensional 3D microscope images of cells and their compartments using machine and deep learning, signal processing, high performance computing, etc. He also works on designing and developing web-based tools for interactive data analysis and visualization. He is co-supervised by Dr. Ivo Dinov and Dr. Brian Athey.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://alxndrkalinin.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://alxndrkalinin.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://alxndrkalinin.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alxndrkalinin.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
