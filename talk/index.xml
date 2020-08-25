@@ -1,22 +1,85 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Alexandr A. Kalinin</title>
+    <title>Recent &amp; Upcoming Talks | Alexandr A. Kalinin</title>
     <link>https://alxndrkalinin.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Alexandr A. Kalinin</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2017 Alexandr Kalinin</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+      <atom:link href="https://alxndrkalinin.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexandr Kalinin</copyright><lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alxndrkalinin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://alxndrkalinin.github.io/talk/</link>
+    </image>
     
-	<atom:link href="https://alxndrkalinin.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breast Tumor Cellularity Assessment using Deep Neural Networks (in Russian)</title>
+      <link>https://alxndrkalinin.github.io/talk/2020-codefest-cellularity/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/talk/2020-codefest-cellularity/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Machine Learning, Big Data and the Future of Healthcare (in Russian)</title>
+      <link>https://alxndrkalinin.github.io/talk/2019-ticket-bigdata/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/talk/2019-ticket-bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breast Tumor Cellularity Assessment using Deep Neural Networks (in Russian)</title>
+      <link>https://alxndrkalinin.github.io/talk/2019-datafest-cellularity/</link>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/talk/2019-datafest-cellularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biomedical Image Segmentation using Deep Learning (in Russian)</title>
+      <link>https://alxndrkalinin.github.io/talk/2019-bioinf-segmentation/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/talk/2019-bioinf-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Advances in Biomedical Image Segmentation Using Deep Learning</title>
+      <link>https://alxndrkalinin.github.io/talk/2019-issondl-segmentation/</link>
+      <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/talk/2019-issondl-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Methods for Cell Nuclear Structure Analysis from Microscopy Data</title>
+      <link>https://alxndrkalinin.github.io/talk/2018-aist-nuclear/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/talk/2018-aist-nuclear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Cell Nuclear Morphology: Microscopy Imaging Dataset and Voxel-Based Morphometry Classification Results</title>
+      <link>https://alxndrkalinin.github.io/talk/2018-cvpr-3d/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/talk/2018-cvpr-3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronic Health Records in the United States and Russia: Challenges and Opportunities for Collaborative Leadership</title>
+      <link>https://alxndrkalinin.github.io/talk/2018-surf-ehr/</link>
+      <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/talk/2018-surf-ehr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title> RSNA 2017 Pediatric Bone Age Challenge</title>
       <link>https://alxndrkalinin.github.io/talk/2017-cft-boneage/</link>
       <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://alxndrkalinin.github.io/talk/2017-cft-boneage/</guid>
       <description></description>
     </item>
@@ -25,7 +88,6 @@
       <title>Convolutional Neural Networks for Biomedical Image Analysis</title>
       <link>https://alxndrkalinin.github.io/talk/2017-mdst-cnn/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://alxndrkalinin.github.io/talk/2017-mdst-cnn/</guid>
       <description></description>
     </item>
@@ -34,7 +96,6 @@
       <title>SOCRAT Platform Design: A Web Architecture for Interactive Visual Analytics Applications</title>
       <link>https://alxndrkalinin.github.io/talk/2017-hilda-socrat/</link>
       <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://alxndrkalinin.github.io/talk/2017-hilda-socrat/</guid>
       <description></description>
     </item>
@@ -43,7 +104,6 @@
       <title>Convolutional Neural Networks for Biomedical Image Analysis</title>
       <link>https://alxndrkalinin.github.io/talk/2017-tt-cnn/</link>
       <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://alxndrkalinin.github.io/talk/2017-tt-cnn/</guid>
       <description></description>
     </item>
@@ -52,7 +112,6 @@
       <title>Deep Learning Year in Review 2016: Computer Vision Perspective</title>
       <link>https://alxndrkalinin.github.io/talk/2016-a2dlearn/</link>
       <pubDate>Sat, 12 Nov 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://alxndrkalinin.github.io/talk/2016-a2dlearn/</guid>
       <description></description>
     </item>

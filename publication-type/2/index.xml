@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Alexandr A. Kalinin</title>
+    <link>https://alxndrkalinin.github.io/publication-type/2/</link>
+      <atom:link href="https://alxndrkalinin.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexandr Kalinin</copyright><lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alxndrkalinin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://alxndrkalinin.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Albumentations: fast and flexible image augmentations</title>
+      <link>https://alxndrkalinin.github.io/publication/2020-information-albumentations/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2020-information-albumentations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Based and Model-Free Techniques for Amyotrophic Lateral Sclerosis Diagnostic Prediction and Patient Clustering</title>
+      <link>https://alxndrkalinin.github.io/publication/2019-neuroinformatics-amls/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2019-neuroinformatics-amls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Shape Modeling for Cell Nuclear Morphological Analysis and Classification</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-scireps-3d-morphometry/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2018-scireps-3d-morphometry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypothesis: Caco-2 cell rotational 3D mechanogenomic Turing patterns has clinical implications to colon crypts</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-3d-turing-patterns/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2018-3d-turing-patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning in Pharmacogenomics: From Gene Regulation to Patient Stratification</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-pgxdl/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2018-pgxdl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opportunities And Obstacles For Deep Learning In Biology And Medicine</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-dl-review/</link>
+      <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2018-dl-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronic Health Records in the United States and Russia: Challenges and Opportunities for Collaborative Leadership</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-surf-ehr/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2018-surf-ehr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOCR data dashboard: an integrated big data archive mashing medicare, labor, census and econometric information</title>
+      <link>https://alxndrkalinin.github.io/publication/2015-socr-dashboard/</link>
+      <pubDate>Fri, 17 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2015-socr-dashboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probability Distributome: a web computational infrastructure for exploring the properties, interrelations, and applications of probability distributions</title>
+      <link>https://alxndrkalinin.github.io/publication/2016-distributome/</link>
+      <pubDate>Fri, 26 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2016-distributome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

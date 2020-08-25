@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Alexandr A. Kalinin</title>
+    <link>https://alxndrkalinin.github.io/publication-type/1/</link>
+      <atom:link href="https://alxndrkalinin.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexandr Kalinin</copyright><lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alxndrkalinin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://alxndrkalinin.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning for Automatic Pneumonia Detection</title>
+      <link>https://alxndrkalinin.github.io/publication/2020-cvpr-pneumonia/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2020-cvpr-pneumonia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breast Tumor Cellularity Assessment using Deep Neural Networks</title>
+      <link>https://alxndrkalinin.github.io/publication/2019-iccv-cellularity/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2019-iccv-cellularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fixed-point convolutional neural network for real-time video processing in FPGA</title>
+      <link>https://alxndrkalinin.github.io/publication/2019-ieee-fpga/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2019-ieee-fpga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angiodysplasia Detection and Localization Using Deep Convolutional Neural Networks</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-icmla-angiodysplasia/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2018-icmla-angiodysplasia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Instrument Segmentation in Robot-Assisted Surgery Using Deep Learning</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-surgery-robot/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2018-surgery-robot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paediatric Bone Age Assessment Using Deep Convolutional Neural Networks</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-boneage-dl/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2018-boneage-dl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Methods for Cell Nuclear Structure Analysis from Microscopy Data</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-aist-evaluation/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2018-aist-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Convolutional Neural Networks for Breast Cancer Histology Image Analysis</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-cancer-iciar/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2018-cancer-iciar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Cell Nuclear Morphology: Microscopy Imaging Dataset and Voxel-Based Morphometry Classification Results</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-3d-morphometry-data/</link>
+      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2018-3d-morphometry-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOCRAT Platform Design: A Web Architecture for Interactive Visual Analytics Applications</title>
+      <link>https://alxndrkalinin.github.io/publication/2017-socrat-platform/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2017-socrat-platform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust estimation of qualitative response regression models</title>
+      <link>https://alxndrkalinin.github.io/publication/2011-robust-estimation/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2011-robust-estimation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

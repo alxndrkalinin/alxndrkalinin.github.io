@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ming Tang | Alexandr A. Kalinin</title>
+    <link>https://alxndrkalinin.github.io/author/ming-tang/</link>
+      <atom:link href="https://alxndrkalinin.github.io/author/ming-tang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ming Tang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexandr Kalinin</copyright><lastBuildDate>Mon, 15 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alxndrkalinin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ming Tang</title>
+      <link>https://alxndrkalinin.github.io/author/ming-tang/</link>
+    </image>
+    
+    <item>
+      <title>Model-Based and Model-Free Techniques for Amyotrophic Lateral Sclerosis Diagnostic Prediction and Patient Clustering</title>
+      <link>https://alxndrkalinin.github.io/publication/2019-neuroinformatics-amls/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2019-neuroinformatics-amls/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

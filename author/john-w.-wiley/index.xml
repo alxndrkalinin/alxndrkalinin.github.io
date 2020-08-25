@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John W. Wiley | Alexandr A. Kalinin</title>
+    <link>https://alxndrkalinin.github.io/author/john-w.-wiley/</link>
+      <atom:link href="https://alxndrkalinin.github.io/author/john-w.-wiley/index.xml" rel="self" type="application/rss+xml" />
+    <description>John W. Wiley</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexandr Kalinin</copyright><lastBuildDate>Wed, 12 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alxndrkalinin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>John W. Wiley</title>
+      <link>https://alxndrkalinin.github.io/author/john-w.-wiley/</link>
+    </image>
+    
+    <item>
+      <title>3D Shape Modeling for Cell Nuclear Morphological Analysis and Classification</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-scireps-3d-morphometry/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2018-scireps-3d-morphometry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypothesis: Caco-2 cell rotational 3D mechanogenomic Turing patterns has clinical implications to colon crypts</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-3d-turing-patterns/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2018-3d-turing-patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Cell Nuclear Morphology: Microscopy Imaging Dataset and Voxel-Based Morphometry Classification Results</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-3d-morphometry-data/</link>
+      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2018-3d-morphometry-data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

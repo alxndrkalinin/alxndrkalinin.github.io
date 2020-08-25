@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tatiana Gabruseva | Alexandr A. Kalinin</title>
+    <link>https://alxndrkalinin.github.io/author/tatiana-gabruseva/</link>
+      <atom:link href="https://alxndrkalinin.github.io/author/tatiana-gabruseva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tatiana Gabruseva</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexandr Kalinin</copyright><lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alxndrkalinin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tatiana Gabruseva</title>
+      <link>https://alxndrkalinin.github.io/author/tatiana-gabruseva/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning for Automatic Pneumonia Detection</title>
+      <link>https://alxndrkalinin.github.io/publication/2020-cvpr-pneumonia/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2020-cvpr-pneumonia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

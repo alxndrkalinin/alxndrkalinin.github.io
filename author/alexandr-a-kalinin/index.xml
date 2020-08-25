@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandr A Kalinin | Alexandr A. Kalinin</title>
+    <link>https://alxndrkalinin.github.io/author/alexandr-a-kalinin/</link>
+      <atom:link href="https://alxndrkalinin.github.io/author/alexandr-a-kalinin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexandr A Kalinin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexandr Kalinin</copyright><lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alxndrkalinin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Alexandr A Kalinin</title>
+      <link>https://alxndrkalinin.github.io/author/alexandr-a-kalinin/</link>
+    </image>
+    
+    <item>
+      <title>Valproic Acid-Induced Changes of 4D Nuclear Morphology in Astrocyte Cells</title>
+      <link>https://alxndrkalinin.github.io/publication/2020-biorxiv-atsrvpa/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2020-biorxiv-atsrvpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical image segmentation using deep neural networks with pre-trained encoders</title>
+      <link>https://alxndrkalinin.github.io/publication/2020-dlapp-segmentation/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2020-dlapp-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Albumentations: fast and flexible image augmentations</title>
+      <link>https://alxndrkalinin.github.io/publication/2020-information-albumentations/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2020-information-albumentations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breast Tumor Cellularity Assessment using Deep Neural Networks</title>
+      <link>https://alxndrkalinin.github.io/publication/2019-iccv-cellularity/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2019-iccv-cellularity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

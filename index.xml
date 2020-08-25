@@ -1,50 +1,200 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexandr A. Kalinin</title>
     <link>https://alxndrkalinin.github.io/</link>
-    <description>Recent content on Alexandr A. Kalinin</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2017 Alexandr Kalinin</copyright>
-    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://alxndrkalinin.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://alxndrkalinin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexandr A. Kalinin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexandr Kalinin</copyright><lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alxndrkalinin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Alexandr A. Kalinin</title>
+      <link>https://alxndrkalinin.github.io/</link>
+    </image>
     
     <item>
-      <title></title>
-      <link>https://alxndrkalinin.github.io/home/about/</link>
-      <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://alxndrkalinin.github.io/home/about/</guid>
-      <description>Biography Alexandr Kalinin is a PhD Candidate in Bioinformatics at the University of Michigan. His research interests include understanding of high-dimensional 3D microscope images of cells and their compartments using machine and deep learning, signal processing, high performance computing, etc. He also works on designing and developing web-based tools for interactive data analysis and visualization. He is co-supervised by Dr. Ivo Dinov and Dr. Brian Athey.</description>
+      <title>Special Issue &#34;Deep Learning for Computer-Aided Diagnosis in Biomedical Imaging&#34;</title>
+      <link>https://alxndrkalinin.github.io/post/2020-08-special-issue/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/post/2020-08-special-issue/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m serving as a Guest Editor for the Special Issue of Diagnostics titled 
+&lt;a href=&#34;https://www.mdpi.com/journal/diagnostics/special_issues/Deep_Learning_Biomedical_Imaging&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Deep Learning for Computer-Aided Diagnosis in Biomedical Imaging&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We will consider papers focused on deep learning applications for automated classification, localization, retrieval, and segmentation of molecules, cells, lesions, nodules, tumors, organs and other structures of interest from biomedical images.
+Specifically, I&amp;rsquo;m very interested in research that addresses challenges in deep learning applications, such as learning from small, imbalanced, and noisy data, estimating model uncertainty, evaluating and interpreting models, limiting computing requirements, and designing and building interfaces between algorithms and clinicians. All papers will be published as Open Access.&lt;/p&gt;
+&lt;p&gt;Submission deadline: 31 March 2021&lt;/p&gt;
+&lt;p&gt;Contact me to receive a discount on APCs.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://alxndrkalinin.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://alxndrkalinin.github.io/home/publications/</guid>
+      <title>New preprint &#34;Valproic Acid-Induced Changes of 4D Nuclear Morphology in Astrocyte Cells&#34;</title>
+      <link>https://alxndrkalinin.github.io/post/2020-06-astr-vpa/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/post/2020-06-astr-vpa/</guid>
+      <description>&lt;p&gt;Our new preprint 
+&lt;a href=&#34;https://doi.org/10.1101/2020.06.29.178202&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Valproic Acid-Induced Changes of 4D Nuclear Morphology in Astrocyte Cells&amp;rdquo;&lt;/a&gt; is now available on bioRxiv.&lt;/p&gt;
+&lt;p&gt;See my 
+&lt;a href=&#34;https://twitter.com/alxndrkalinin/status/1277990838866493440&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twittorial&lt;/a&gt; for a quick overview.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Valproic Acid-Induced Changes of 4D Nuclear Morphology in Astrocyte Cells</title>
+      <link>https://alxndrkalinin.github.io/publication/2020-biorxiv-atsrvpa/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2020-biorxiv-atsrvpa/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://alxndrkalinin.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://alxndrkalinin.github.io/home/talks/</guid>
+      <title>Deep Learning for Automatic Pneumonia Detection</title>
+      <link>https://alxndrkalinin.github.io/publication/2020-cvpr-pneumonia/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2020-cvpr-pneumonia/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://alxndrkalinin.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://alxndrkalinin.github.io/home/contact/</guid>
+      <title>New CVPRW&#39;20 paper &#34;Deep Learning for Automatic Pneumonia Detection&#34;</title>
+      <link>https://alxndrkalinin.github.io/post/2020-06-pneumonia/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/post/2020-06-pneumonia/</guid>
+      <description>&lt;p&gt;Our new paper with Tatiana Gabruseva and Dmytro Poplavskiy 
+&lt;a href=&#34;https://openaccess.thecvf.com/content_CVPRW_2020/html/w22/Gabruseva_Deep_Learning_for_Automatic_Pneumonia_Detection_CVPRW_2020_paper.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Deep Learning for Automatic Pneumonia Detection&amp;rdquo;&lt;/a&gt; is now available in CVPR 2020 Workshop proceedings.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Breast Tumor Cellularity Assessment using Deep Neural Networks (in Russian)</title>
+      <link>https://alxndrkalinin.github.io/talk/2020-codefest-cellularity/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/talk/2020-codefest-cellularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical image segmentation using deep neural networks with pre-trained encoders</title>
+      <link>https://alxndrkalinin.github.io/publication/2020-dlapp-segmentation/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2020-dlapp-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New book chapter &#34;Medical Image Segmentation Using Deep Neural Networks with Pre-trained Encoders&#34;</title>
+      <link>https://alxndrkalinin.github.io/post/2020-03-encoders/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/post/2020-03-encoders/</guid>
+      <description>&lt;p&gt;Our new book chapter with Vladimir I. Iglovikov, Alexander Rakhlin and Alexey A. Shvets 
+&lt;a href=&#34;https://doi.org/10.1007/978-981-15-1816-4_3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Medical Image Segmentation Using Deep Neural Networks with Pre-trained Encoders&amp;rdquo;&lt;/a&gt; is now available at SpringerLink.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Albumentations: fast and flexible image augmentations</title>
+      <link>https://alxndrkalinin.github.io/publication/2020-information-albumentations/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2020-information-albumentations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New paper &#34;Albumentations: Fast and Flexible Image Augmentations&#34;</title>
+      <link>https://alxndrkalinin.github.io/post/2020-03-albumentations/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/post/2020-03-albumentations/</guid>
+      <description>&lt;p&gt;Our new paper with Alexander Buslaev, Vladimir I Iglovikov, Eugene Khvedchenya, Alex Parinov and Mikhail Druzhinin 
+&lt;a href=&#34;https://doi.org/10.3390/info11020125&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Albumentations: Fast and Flexible Image Augmentations&amp;rdquo;&lt;/a&gt; is now available at Information.&lt;/p&gt;
+&lt;p&gt;Also check out 
+&lt;a href=&#34;https://albumentations.ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Albumentations&lt;/a&gt; library!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Breast Tumor Cellularity Assessment using Deep Neural Networks</title>
+      <link>https://alxndrkalinin.github.io/publication/2019-iccv-cellularity/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2019-iccv-cellularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning, Big Data and the Future of Healthcare (in Russian)</title>
+      <link>https://alxndrkalinin.github.io/talk/2019-ticket-bigdata/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/talk/2019-ticket-bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breast Tumor Cellularity Assessment using Deep Neural Networks (in Russian)</title>
+      <link>https://alxndrkalinin.github.io/talk/2019-datafest-cellularity/</link>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/talk/2019-datafest-cellularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biomedical Image Segmentation using Deep Learning (in Russian)</title>
+      <link>https://alxndrkalinin.github.io/talk/2019-bioinf-segmentation/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/talk/2019-bioinf-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Based and Model-Free Techniques for Amyotrophic Lateral Sclerosis Diagnostic Prediction and Patient Clustering</title>
+      <link>https://alxndrkalinin.github.io/publication/2019-neuroinformatics-amls/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2019-neuroinformatics-amls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Advances in Biomedical Image Segmentation Using Deep Learning</title>
+      <link>https://alxndrkalinin.github.io/talk/2019-issondl-segmentation/</link>
+      <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/talk/2019-issondl-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fixed-point convolutional neural network for real-time video processing in FPGA</title>
+      <link>https://alxndrkalinin.github.io/publication/2019-ieee-fpga/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2019-ieee-fpga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angiodysplasia Detection and Localization Using Deep Convolutional Neural Networks</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-icmla-angiodysplasia/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2018-icmla-angiodysplasia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Instrument Segmentation in Robot-Assisted Surgery Using Deep Learning</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-surgery-robot/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2018-surgery-robot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paediatric Bone Age Assessment Using Deep Convolutional Neural Networks</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-boneage-dl/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2018-boneage-dl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Shape Modeling for Cell Nuclear Morphological Analysis and Classification</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-scireps-3d-morphometry/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2018-scireps-3d-morphometry/</guid>
       <description></description>
     </item>
     
@@ -52,7 +202,6 @@
       <title>Hypothesis: Caco-2 cell rotational 3D mechanogenomic Turing patterns has clinical implications to colon crypts</title>
       <link>https://alxndrkalinin.github.io/publication/2018-3d-turing-patterns/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://alxndrkalinin.github.io/publication/2018-3d-turing-patterns/</guid>
       <description></description>
     </item>
@@ -61,8 +210,15 @@
       <title>Evaluation of Methods for Cell Nuclear Structure Analysis from Microscopy Data</title>
       <link>https://alxndrkalinin.github.io/publication/2018-aist-evaluation/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://alxndrkalinin.github.io/publication/2018-aist-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Methods for Cell Nuclear Structure Analysis from Microscopy Data</title>
+      <link>https://alxndrkalinin.github.io/talk/2018-aist-nuclear/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/talk/2018-aist-nuclear/</guid>
       <description></description>
     </item>
     
@@ -70,17 +226,23 @@
       <title>Deep Convolutional Neural Networks for Breast Cancer Histology Image Analysis</title>
       <link>https://alxndrkalinin.github.io/publication/2018-cancer-iciar/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://alxndrkalinin.github.io/publication/2018-cancer-iciar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3D Cell Nuclear Morphology: Microscopy Imaging Dataset and Voxel-Based Morphometry Classification Results</title>
-      <link>https://alxndrkalinin.github.io/publication/2017-3d-morphometry-data/</link>
+      <link>https://alxndrkalinin.github.io/publication/2018-3d-morphometry-data/</link>
       <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://alxndrkalinin.github.io/publication/2017-3d-morphometry-data/</guid>
+      <guid>https://alxndrkalinin.github.io/publication/2018-3d-morphometry-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Cell Nuclear Morphology: Microscopy Imaging Dataset and Voxel-Based Morphometry Classification Results</title>
+      <link>https://alxndrkalinin.github.io/talk/2018-cvpr-3d/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/talk/2018-cvpr-3d/</guid>
       <description></description>
     </item>
     
@@ -88,17 +250,23 @@
       <title>Deep Learning in Pharmacogenomics: From Gene Regulation to Patient Stratification</title>
       <link>https://alxndrkalinin.github.io/publication/2018-pgxdl/</link>
       <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://alxndrkalinin.github.io/publication/2018-pgxdl/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Opportunities And Obstacles For Deep Learning In Biology And Medicine</title>
-      <link>https://alxndrkalinin.github.io/publication/dl-review/</link>
+      <title>Electronic Health Records in the United States and Russia: Challenges and Opportunities for Collaborative Leadership</title>
+      <link>https://alxndrkalinin.github.io/talk/2018-surf-ehr/</link>
       <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://alxndrkalinin.github.io/publication/dl-review/</guid>
+      <guid>https://alxndrkalinin.github.io/talk/2018-surf-ehr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opportunities And Obstacles For Deep Learning In Biology And Medicine</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-dl-review/</link>
+      <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2018-dl-review/</guid>
       <description></description>
     </item>
     
@@ -106,17 +274,7 @@
       <title>Electronic Health Records in the United States and Russia: Challenges and Opportunities for Collaborative Leadership</title>
       <link>https://alxndrkalinin.github.io/publication/2018-surf-ehr/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://alxndrkalinin.github.io/publication/2018-surf-ehr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automatic Instrument Segmentation in Robot-Assisted Surgery Using Deep Learning</title>
-      <link>https://alxndrkalinin.github.io/publication/2018-surgery-robot/</link>
-      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://alxndrkalinin.github.io/publication/2018-surgery-robot/</guid>
       <description></description>
     </item>
     
@@ -124,17 +282,7 @@
       <title> RSNA 2017 Pediatric Bone Age Challenge</title>
       <link>https://alxndrkalinin.github.io/talk/2017-cft-boneage/</link>
       <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://alxndrkalinin.github.io/talk/2017-cft-boneage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pediatric Bone Age Assessment Using Deep Convolutional Neural Networks</title>
-      <link>https://alxndrkalinin.github.io/publication/2017-boneage-dl/</link>
-      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://alxndrkalinin.github.io/publication/2017-boneage-dl/</guid>
       <description></description>
     </item>
     
@@ -142,17 +290,15 @@
       <title>Convolutional Neural Networks for Biomedical Image Analysis</title>
       <link>https://alxndrkalinin.github.io/talk/2017-mdst-cnn/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://alxndrkalinin.github.io/talk/2017-mdst-cnn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SOCRAT Platform Design: A Web Architecture for Interactive Visual Analytics Applications</title>
-      <link>https://alxndrkalinin.github.io/publication/socrat-platform/</link>
+      <link>https://alxndrkalinin.github.io/publication/2017-socrat-platform/</link>
       <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://alxndrkalinin.github.io/publication/socrat-platform/</guid>
+      <guid>https://alxndrkalinin.github.io/publication/2017-socrat-platform/</guid>
       <description></description>
     </item>
     
@@ -160,7 +306,6 @@
       <title>SOCRAT Platform Design: A Web Architecture for Interactive Visual Analytics Applications</title>
       <link>https://alxndrkalinin.github.io/talk/2017-hilda-socrat/</link>
       <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://alxndrkalinin.github.io/talk/2017-hilda-socrat/</guid>
       <description></description>
     </item>
@@ -169,7 +314,6 @@
       <title>Convolutional Neural Networks for Biomedical Image Analysis</title>
       <link>https://alxndrkalinin.github.io/talk/2017-tt-cnn/</link>
       <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://alxndrkalinin.github.io/talk/2017-tt-cnn/</guid>
       <description></description>
     </item>
@@ -178,26 +322,23 @@
       <title>Deep Learning Year in Review 2016: Computer Vision Perspective</title>
       <link>https://alxndrkalinin.github.io/talk/2016-a2dlearn/</link>
       <pubDate>Sat, 12 Nov 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://alxndrkalinin.github.io/talk/2016-a2dlearn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SOCR data dashboard: an integrated big data archive mashing medicare, labor, census and econometric information</title>
-      <link>https://alxndrkalinin.github.io/publication/socr-dashboard/</link>
+      <link>https://alxndrkalinin.github.io/publication/2015-socr-dashboard/</link>
       <pubDate>Fri, 17 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://alxndrkalinin.github.io/publication/socr-dashboard/</guid>
+      <guid>https://alxndrkalinin.github.io/publication/2015-socr-dashboard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probability Distributome: a web computational infrastructure for exploring the properties, interrelations, and applications of probability distributions</title>
-      <link>https://alxndrkalinin.github.io/publication/distributome/</link>
+      <link>https://alxndrkalinin.github.io/publication/2016-distributome/</link>
       <pubDate>Fri, 26 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://alxndrkalinin.github.io/publication/distributome/</guid>
+      <guid>https://alxndrkalinin.github.io/publication/2016-distributome/</guid>
       <description></description>
     </item>
     
@@ -205,7 +346,6 @@
       <title>Robust estimation of qualitative response regression models</title>
       <link>https://alxndrkalinin.github.io/publication/2011-robust-estimation/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://alxndrkalinin.github.io/publication/2011-robust-estimation/</guid>
       <description></description>
     </item>

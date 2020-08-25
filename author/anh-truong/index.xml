@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anh Truong | Alexandr A. Kalinin</title>
+    <link>https://alxndrkalinin.github.io/author/anh-truong/</link>
+      <atom:link href="https://alxndrkalinin.github.io/author/anh-truong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anh Truong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexandr Kalinin</copyright><lastBuildDate>Fri, 17 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alxndrkalinin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Anh Truong</title>
+      <link>https://alxndrkalinin.github.io/author/anh-truong/</link>
+    </image>
+    
+    <item>
+      <title>SOCR data dashboard: an integrated big data archive mashing medicare, labor, census and econometric information</title>
+      <link>https://alxndrkalinin.github.io/publication/2015-socr-dashboard/</link>
+      <pubDate>Fri, 17 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2015-socr-dashboard/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

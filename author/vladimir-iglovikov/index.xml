@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vladimir Iglovikov | Alexandr A. Kalinin</title>
+    <link>https://alxndrkalinin.github.io/author/vladimir-iglovikov/</link>
+      <atom:link href="https://alxndrkalinin.github.io/author/vladimir-iglovikov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vladimir Iglovikov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexandr Kalinin</copyright><lastBuildDate>Mon, 17 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alxndrkalinin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Vladimir Iglovikov</title>
+      <link>https://alxndrkalinin.github.io/author/vladimir-iglovikov/</link>
+    </image>
+    
+    <item>
+      <title>Angiodysplasia Detection and Localization Using Deep Convolutional Neural Networks</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-icmla-angiodysplasia/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2018-icmla-angiodysplasia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Instrument Segmentation in Robot-Assisted Surgery Using Deep Learning</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-surgery-robot/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2018-surgery-robot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Convolutional Neural Networks for Breast Cancer Histology Image Analysis</title>
+      <link>https://alxndrkalinin.github.io/publication/2018-cancer-iciar/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2018-cancer-iciar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
