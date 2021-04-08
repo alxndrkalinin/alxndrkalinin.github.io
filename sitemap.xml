@@ -2,8 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://alxndrkalinin.github.io/publication-type/3/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alxndrkalinin.github.io/author/alex-s-ade/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alxndrkalinin.github.io/author/alexandr-a-kalinin/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://alxndrkalinin.github.io/</loc>
-    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alxndrkalinin.github.io/authors/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alxndrkalinin.github.io/author/brian-d-athey/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alxndrkalinin.github.io/author/gerald-a-higgins/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alxndrkalinin.github.io/author/gordon-victor-fon/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alxndrkalinin.github.io/author/ivo-d-dinov/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alxndrkalinin.github.io/author/jonathan-z-sexton/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alxndrkalinin.github.io/author/matthew-j.-omeara/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alxndrkalinin.github.io/publication_types/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alxndrkalinin.github.io/publication/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alxndrkalinin.github.io/publication/2021-biorxiv-atsrvpa/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alxndrkalinin.github.io/author/walter-meixner/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alxndrkalinin.github.io/author/xiang-wan/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alxndrkalinin.github.io/author/xinhai-hou/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alxndrkalinin.github.io/publication/2021-diagnostics-stallcatchers/</loc>
+    <lastmod>2021-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alxndrkalinin.github.io/author/alexandr-a.-kalinin/</loc>
+    <lastmod>2021-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alxndrkalinin.github.io/author/roman-solovyev/</loc>
+    <lastmod>2021-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alxndrkalinin.github.io/author/tatiana-gabruseva/</loc>
+    <lastmod>2021-04-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alxndrkalinin.github.io/talk/2019-issondl-segmentation-copy/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
@@ -26,9 +86,6 @@
     <loc>https://alxndrkalinin.github.io/author/alexandr-kalinin/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alxndrkalinin.github.io/authors/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://alxndrkalinin.github.io/publication/2020-cvpr-pneumonia/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -38,65 +95,8 @@
     <loc>https://alxndrkalinin.github.io/post/2020-06-pneumonia/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alxndrkalinin.github.io/publication_types/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alxndrkalinin.github.io/publication/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alxndrkalinin.github.io/author/tatiana-gabruseva/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://alxndrkalinin.github.io/talk/2020-codefest-cellularity/</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alxndrkalinin.github.io/publication-type/3/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alxndrkalinin.github.io/author/alex-s-ade/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alxndrkalinin.github.io/author/alexandr-a-kalinin/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alxndrkalinin.github.io/author/brian-d-athey/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alxndrkalinin.github.io/author/gerald-a-higgins/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alxndrkalinin.github.io/author/gordon-victor-fon/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alxndrkalinin.github.io/author/ivo-d-dinov/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alxndrkalinin.github.io/author/jonathan-z-sexton/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alxndrkalinin.github.io/author/matthew-j.-omeara/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alxndrkalinin.github.io/publication/2020-biorxiv-atsrvpa/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alxndrkalinin.github.io/author/walter-meixner/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alxndrkalinin.github.io/author/xiang-wan/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alxndrkalinin.github.io/author/xinhai-hou/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alxndrkalinin.github.io/publication/2021-diagnostics-stallcatchers/</loc>
-    <lastmod>2020-04-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alxndrkalinin.github.io/author/alexandr-a.-kalinin/</loc>
-    <lastmod>2020-04-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alxndrkalinin.github.io/author/roman-solovyev/</loc>
-    <lastmod>2020-04-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alxndrkalinin.github.io/publication-type/6/</loc>
     <lastmod>2020-03-24T00:00:00+00:00</lastmod>
