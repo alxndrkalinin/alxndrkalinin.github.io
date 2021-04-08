@@ -5,20 +5,27 @@
     <link>https://alxndrkalinin.github.io/</link>
       <atom:link href="https://alxndrkalinin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexandr A. Kalinin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexandr Kalinin</copyright><lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Alexandr Kalinin</copyright><lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://alxndrkalinin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://alxndrkalinin.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Alexandr A. Kalinin</title>
       <link>https://alxndrkalinin.github.io/</link>
     </image>
+    
+    <item>
+      <title>CV: Semantic Segmentation</title>
+      <link>https://alxndrkalinin.github.io/talk/2019-issondl-segmentation-copy/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/talk/2019-issondl-segmentation-copy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Special Issue &#34;Deep Learning for Computer-Aided Diagnosis in Biomedical Imaging&#34;</title>
       <link>https://alxndrkalinin.github.io/post/2020-08-special-issue/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://alxndrkalinin.github.io/post/2020-08-special-issue/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m serving as a Guest Editor for the Special Issue of Diagnostics titled 
-&lt;a href=&#34;https://www.mdpi.com/journal/diagnostics/special_issues/Deep_Learning_Biomedical_Imaging&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Deep Learning for Computer-Aided Diagnosis in Biomedical Imaging&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m serving as a Guest Editor for the Special Issue of Diagnostics titled &lt;a href=&#34;https://www.mdpi.com/journal/diagnostics/special_issues/Deep_Learning_Biomedical_Imaging&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Deep Learning for Computer-Aided Diagnosis in Biomedical Imaging&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We will consider papers focused on deep learning applications for automated classification, localization, retrieval, and segmentation of molecules, cells, lesions, nodules, tumors, organs and other structures of interest from biomedical images.
 Specifically, I&amp;rsquo;m very interested in research that addresses challenges in deep learning applications, such as learning from small, imbalanced, and noisy data, estimating model uncertainty, evaluating and interpreting models, limiting computing requirements, and designing and building interfaces between algorithms and clinicians. All papers will be published as Open Access.&lt;/p&gt;
 &lt;p&gt;Submission deadline: 31 March 2021&lt;/p&gt;
@@ -31,19 +38,9 @@ Specifically, I&amp;rsquo;m very interested in research that addresses challenge
       <link>https://alxndrkalinin.github.io/post/2020-06-astr-vpa/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://alxndrkalinin.github.io/post/2020-06-astr-vpa/</guid>
-      <description>&lt;p&gt;Our new preprint 
-&lt;a href=&#34;https://doi.org/10.1101/2020.06.29.178202&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Valproic Acid-Induced Changes of 4D Nuclear Morphology in Astrocyte Cells&amp;rdquo;&lt;/a&gt; is now available on bioRxiv.&lt;/p&gt;
-&lt;p&gt;See my 
-&lt;a href=&#34;https://twitter.com/alxndrkalinin/status/1277990838866493440&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twittorial&lt;/a&gt; for a quick overview.&lt;/p&gt;
+      <description>&lt;p&gt;Our new preprint &lt;a href=&#34;https://doi.org/10.1101/2020.06.29.178202&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Valproic Acid-Induced Changes of 4D Nuclear Morphology in Astrocyte Cells&amp;rdquo;&lt;/a&gt; is now available on bioRxiv.&lt;/p&gt;
+&lt;p&gt;See my &lt;a href=&#34;https://twitter.com/alxndrkalinin/status/1277990838866493440&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twittorial&lt;/a&gt; for a quick overview.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Valproic Acid-Induced Changes of 4D Nuclear Morphology in Astrocyte Cells</title>
-      <link>https://alxndrkalinin.github.io/publication/2020-biorxiv-atsrvpa/</link>
-      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://alxndrkalinin.github.io/publication/2020-biorxiv-atsrvpa/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -59,8 +56,7 @@ Specifically, I&amp;rsquo;m very interested in research that addresses challenge
       <link>https://alxndrkalinin.github.io/post/2020-06-pneumonia/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://alxndrkalinin.github.io/post/2020-06-pneumonia/</guid>
-      <description>&lt;p&gt;Our new paper with Tatiana Gabruseva and Dmytro Poplavskiy 
-&lt;a href=&#34;https://openaccess.thecvf.com/content_CVPRW_2020/html/w22/Gabruseva_Deep_Learning_for_Automatic_Pneumonia_Detection_CVPRW_2020_paper.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Deep Learning for Automatic Pneumonia Detection&amp;rdquo;&lt;/a&gt; is now available in CVPR 2020 Workshop proceedings.&lt;/p&gt;
+      <description>&lt;p&gt;Our new paper with Tatiana Gabruseva and Dmytro Poplavskiy &lt;a href=&#34;https://openaccess.thecvf.com/content_CVPRW_2020/html/w22/Gabruseva_Deep_Learning_for_Automatic_Pneumonia_Detection_CVPRW_2020_paper.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Deep Learning for Automatic Pneumonia Detection&amp;rdquo;&lt;/a&gt; is now available in CVPR 2020 Workshop proceedings.&lt;/p&gt;
 </description>
     </item>
     
@@ -69,6 +65,22 @@ Specifically, I&amp;rsquo;m very interested in research that addresses challenge
       <link>https://alxndrkalinin.github.io/talk/2020-codefest-cellularity/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
       <guid>https://alxndrkalinin.github.io/talk/2020-codefest-cellularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valproic Acid-Induced Changes of 4D Nuclear Morphology in Astrocyte Cells</title>
+      <link>https://alxndrkalinin.github.io/publication/2020-biorxiv-atsrvpa/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2020-biorxiv-atsrvpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Convolutional Neural Networks for Stalled Brain Capillary Detection</title>
+      <link>https://alxndrkalinin.github.io/publication/2021-diagnostics-stallcatchers/</link>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2021-diagnostics-stallcatchers/</guid>
       <description></description>
     </item>
     
@@ -85,8 +97,7 @@ Specifically, I&amp;rsquo;m very interested in research that addresses challenge
       <link>https://alxndrkalinin.github.io/post/2020-03-encoders/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://alxndrkalinin.github.io/post/2020-03-encoders/</guid>
-      <description>&lt;p&gt;Our new book chapter with Vladimir I. Iglovikov, Alexander Rakhlin and Alexey A. Shvets 
-&lt;a href=&#34;https://doi.org/10.1007/978-981-15-1816-4_3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Medical Image Segmentation Using Deep Neural Networks with Pre-trained Encoders&amp;rdquo;&lt;/a&gt; is now available at SpringerLink.&lt;/p&gt;
+      <description>&lt;p&gt;Our new book chapter with Vladimir I. Iglovikov, Alexander Rakhlin and Alexey A. Shvets &lt;a href=&#34;https://doi.org/10.1007/978-981-15-1816-4_3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Medical Image Segmentation Using Deep Neural Networks with Pre-trained Encoders&amp;rdquo;&lt;/a&gt; is now available at SpringerLink.&lt;/p&gt;
 </description>
     </item>
     
@@ -103,10 +114,8 @@ Specifically, I&amp;rsquo;m very interested in research that addresses challenge
       <link>https://alxndrkalinin.github.io/post/2020-03-albumentations/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://alxndrkalinin.github.io/post/2020-03-albumentations/</guid>
-      <description>&lt;p&gt;Our new paper with Alexander Buslaev, Vladimir I Iglovikov, Eugene Khvedchenya, Alex Parinov and Mikhail Druzhinin 
-&lt;a href=&#34;https://doi.org/10.3390/info11020125&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Albumentations: Fast and Flexible Image Augmentations&amp;rdquo;&lt;/a&gt; is now available at Information.&lt;/p&gt;
-&lt;p&gt;Also check out 
-&lt;a href=&#34;https://albumentations.ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Albumentations&lt;/a&gt; library!&lt;/p&gt;
+      <description>&lt;p&gt;Our new paper with Alexander Buslaev, Vladimir I Iglovikov, Eugene Khvedchenya, Alex Parinov and Mikhail Druzhinin &lt;a href=&#34;https://doi.org/10.3390/info11020125&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Albumentations: Fast and Flexible Image Augmentations&amp;rdquo;&lt;/a&gt; is now available at Information.&lt;/p&gt;
+&lt;p&gt;Also check out &lt;a href=&#34;https://albumentations.ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Albumentations&lt;/a&gt; library!&lt;/p&gt;
 </description>
     </item>
     

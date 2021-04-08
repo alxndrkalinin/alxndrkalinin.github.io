@@ -5,12 +5,20 @@
     <link>https://alxndrkalinin.github.io/author/roman-solovyev/</link>
       <atom:link href="https://alxndrkalinin.github.io/author/roman-solovyev/index.xml" rel="self" type="application/rss+xml" />
     <description>Roman Solovyev</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexandr Kalinin</copyright><lastBuildDate>Mon, 28 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Alexandr Kalinin</copyright><lastBuildDate>Sat, 04 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://alxndrkalinin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://alxndrkalinin.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Roman Solovyev</title>
       <link>https://alxndrkalinin.github.io/author/roman-solovyev/</link>
     </image>
+    
+    <item>
+      <title>3D Convolutional Neural Networks for Stalled Brain Capillary Detection</title>
+      <link>https://alxndrkalinin.github.io/publication/2021-diagnostics-stallcatchers/</link>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2021-diagnostics-stallcatchers/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fixed-point convolutional neural network for real-time video processing in FPGA</title>
