@@ -5,12 +5,39 @@
     <link>https://alxndrkalinin.github.io/post/</link>
       <atom:link href="https://alxndrkalinin.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Alexandr Kalinin</copyright><lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Alexandr Kalinin</copyright><lastBuildDate>Thu, 19 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://alxndrkalinin.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://alxndrkalinin.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://alxndrkalinin.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Paper is out at MBoC: &#34;Valproic acid-induced changes of 4D nuclear morphology in astrocyte cells&#34;</title>
+      <link>https://alxndrkalinin.github.io/post/2021-08-19-mboc-astr-vpa/</link>
+      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/post/2021-08-19-mboc-astr-vpa/</guid>
+      <description>&lt;p&gt;Our new paper &lt;a href=&#34;https://doi.org/10.1091/mbc.E20-08-0502&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Valproic acid-induced changes of 4D nuclear morphology in astrocyte cells&amp;rdquo;&lt;/a&gt; is now available as a part of the Special Issue on &amp;ldquo;Forces On and Within Cells&amp;rdquo; of the Molecular Biology of the Cell.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New preprint &#34;Ten Quick Tips for Deep Learning in Biology&#34;</title>
+      <link>https://alxndrkalinin.github.io/post/2021-05-21-10tips/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/post/2021-05-21-10tips/</guid>
+      <description>&lt;p&gt;Our new collaboratively written preprint &lt;a href=&#34;https://arxiv.org/abs/2105.14372&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Ten Quick Tips for Deep Learning in Biology&amp;rdquo;&lt;/a&gt; is now available on arXiv.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New preprint &#34;3D Convolutional Neural Networks for Stalled Brain Capillary Detection&#34;</title>
+      <link>https://alxndrkalinin.github.io/post/2021-04-04-arxiv-stallcatchers/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/post/2021-04-04-arxiv-stallcatchers/</guid>
+      <description>&lt;p&gt;Our new collaboratively written preprint &lt;a href=&#34;https://arxiv.org/abs/2104.01687&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;3D Convolutional Neural Networks for Stalled Brain Capillary Detection&amp;rdquo;&lt;/a&gt; is now available on arXiv.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Special Issue &#34;Deep Learning for Computer-Aided Diagnosis in Biomedical Imaging&#34;</title>

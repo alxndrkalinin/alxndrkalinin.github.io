@@ -5,116 +5,12 @@
     <link>https://alxndrkalinin.github.io/author/alexandr-a.-kalinin/</link>
       <atom:link href="https://alxndrkalinin.github.io/author/alexandr-a.-kalinin/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexandr A. Kalinin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Alexandr Kalinin</copyright><lastBuildDate>Sun, 04 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Alexandr Kalinin</copyright>
     <image>
-      <url>https://alxndrkalinin.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://alxndrkalinin.github.io/author/alexandr-a.-kalinin/avatar_huc0c6380a09cd1786d82ee88c202fae47_38703_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Alexandr A. Kalinin</title>
       <link>https://alxndrkalinin.github.io/author/alexandr-a.-kalinin/</link>
     </image>
-    
-    <item>
-      <title>3D Convolutional Neural Networks for Stalled Brain Capillary Detection</title>
-      <link>https://alxndrkalinin.github.io/publication/2021-diagnostics-stallcatchers/</link>
-      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://alxndrkalinin.github.io/publication/2021-diagnostics-stallcatchers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Angiodysplasia Detection and Localization Using Deep Convolutional Neural Networks</title>
-      <link>https://alxndrkalinin.github.io/publication/2018-icmla-angiodysplasia/</link>
-      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://alxndrkalinin.github.io/publication/2018-icmla-angiodysplasia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automatic Instrument Segmentation in Robot-Assisted Surgery Using Deep Learning</title>
-      <link>https://alxndrkalinin.github.io/publication/2018-surgery-robot/</link>
-      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://alxndrkalinin.github.io/publication/2018-surgery-robot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paediatric Bone Age Assessment Using Deep Convolutional Neural Networks</title>
-      <link>https://alxndrkalinin.github.io/publication/2018-boneage-dl/</link>
-      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://alxndrkalinin.github.io/publication/2018-boneage-dl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>3D Shape Modeling for Cell Nuclear Morphological Analysis and Classification</title>
-      <link>https://alxndrkalinin.github.io/publication/2018-scireps-3d-morphometry/</link>
-      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://alxndrkalinin.github.io/publication/2018-scireps-3d-morphometry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hypothesis: Caco-2 cell rotational 3D mechanogenomic Turing patterns has clinical implications to colon crypts</title>
-      <link>https://alxndrkalinin.github.io/publication/2018-3d-turing-patterns/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://alxndrkalinin.github.io/publication/2018-3d-turing-patterns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evaluation of Methods for Cell Nuclear Structure Analysis from Microscopy Data</title>
-      <link>https://alxndrkalinin.github.io/publication/2018-aist-evaluation/</link>
-      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://alxndrkalinin.github.io/publication/2018-aist-evaluation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Convolutional Neural Networks for Breast Cancer Histology Image Analysis</title>
-      <link>https://alxndrkalinin.github.io/publication/2018-cancer-iciar/</link>
-      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://alxndrkalinin.github.io/publication/2018-cancer-iciar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>3D Cell Nuclear Morphology: Microscopy Imaging Dataset and Voxel-Based Morphometry Classification Results</title>
-      <link>https://alxndrkalinin.github.io/publication/2018-3d-morphometry-data/</link>
-      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://alxndrkalinin.github.io/publication/2018-3d-morphometry-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning in Pharmacogenomics: From Gene Regulation to Patient Stratification</title>
-      <link>https://alxndrkalinin.github.io/publication/2018-pgxdl/</link>
-      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://alxndrkalinin.github.io/publication/2018-pgxdl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Opportunities And Obstacles For Deep Learning In Biology And Medicine</title>
-      <link>https://alxndrkalinin.github.io/publication/2018-dl-review/</link>
-      <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://alxndrkalinin.github.io/publication/2018-dl-review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Electronic Health Records in the United States and Russia: Challenges and Opportunities for Collaborative Leadership</title>
-      <link>https://alxndrkalinin.github.io/publication/2018-surf-ehr/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://alxndrkalinin.github.io/publication/2018-surf-ehr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robust estimation of qualitative response regression models</title>
-      <link>https://alxndrkalinin.github.io/publication/2011-robust-estimation/</link>
-      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://alxndrkalinin.github.io/publication/2011-robust-estimation/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
