@@ -5,12 +5,28 @@
     <link>https://alxndrkalinin.github.io/publication-type/2/</link>
       <atom:link href="https://alxndrkalinin.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Alexandr Kalinin</copyright><lastBuildDate>Thu, 19 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Alexandr Kalinin</copyright><lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alxndrkalinin.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://alxndrkalinin.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Ten Quick Tips for Deep Learning in Biology</title>
+      <link>https://alxndrkalinin.github.io/publication/2021-ploscompbio-dltips/</link>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2021-ploscompbio-dltips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Convolutional Neural Networks for Stalled Brain Capillary Detection</title>
+      <link>https://alxndrkalinin.github.io/publication/2021-compinbiomed-stallcatchers/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2021-compinbiomed-stallcatchers/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Valproic Acid-Induced Changes of 4D Nuclear Morphology in Astrocyte Cells</title>
