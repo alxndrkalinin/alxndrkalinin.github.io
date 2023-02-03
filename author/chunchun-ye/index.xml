@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chunchun Ye | Alexandr A. Kalinin</title>
+    <link>https://alxndrkalinin.github.io/author/chunchun-ye/</link>
+      <atom:link href="https://alxndrkalinin.github.io/author/chunchun-ye/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chunchun Ye</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Alexandr Kalinin</copyright><lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alxndrkalinin.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Chunchun Ye</title>
+      <link>https://alxndrkalinin.github.io/author/chunchun-ye/</link>
+    </image>
+    
+    <item>
+      <title>SOCRAT: A Dynamic Web Toolbox for Interactive Data Processing, Analysis and Visualization</title>
+      <link>https://alxndrkalinin.github.io/publication/2022-information-socrat/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2022-information-socrat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

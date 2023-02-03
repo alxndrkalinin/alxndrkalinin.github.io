@@ -5,12 +5,29 @@
     <link>https://alxndrkalinin.github.io/</link>
       <atom:link href="https://alxndrkalinin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexandr A. Kalinin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Alexandr Kalinin</copyright><lastBuildDate>Fri, 10 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Alexandr Kalinin</copyright><lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alxndrkalinin.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Alexandr A. Kalinin</title>
       <link>https://alxndrkalinin.github.io/</link>
     </image>
+    
+    <item>
+      <title>Paper is out at Information: &#34;SOCRAT: A Dynamic Web Toolbox for Interactive Data Processing, Analysis and Visualization&#34;</title>
+      <link>https://alxndrkalinin.github.io/post/2022-11-19-inforation-socrat/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/post/2022-11-19-inforation-socrat/</guid>
+      <description>&lt;p&gt;Our new paper &lt;a href=&#34;https://doi.org/10.3390/info13110547&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;SOCRAT: A Dynamic Web Toolbox for Interactive Data Processing, Analysis and Visualization&amp;rdquo;&lt;/a&gt; is now available at Information.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SOCRAT: A Dynamic Web Toolbox for Interactive Data Processing, Analysis and Visualization</title>
+      <link>https://alxndrkalinin.github.io/publication/2022-information-socrat/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2022-information-socrat/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>New preprint: &#34;Integrating inflammatory biomarker analysis and artificial intelligence-enabled image-based profiling to identify drug targets for intestinal fibrosis&#34;</title>

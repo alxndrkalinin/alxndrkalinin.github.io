@@ -5,12 +5,20 @@
     <link>https://alxndrkalinin.github.io/publication/</link>
       <atom:link href="https://alxndrkalinin.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Alexandr Kalinin</copyright><lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Alexandr Kalinin</copyright><lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alxndrkalinin.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://alxndrkalinin.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>SOCRAT: A Dynamic Web Toolbox for Interactive Data Processing, Analysis and Visualization</title>
+      <link>https://alxndrkalinin.github.io/publication/2022-information-socrat/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2022-information-socrat/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Integrating inflammatory biomarker analysis and artificial intelligence-enabled image-based profiling to identify drug targets for intestinal fibrosis</title>

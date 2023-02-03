@@ -5,12 +5,20 @@
     <link>https://alxndrkalinin.github.io/author/syed-s.-husain/</link>
       <atom:link href="https://alxndrkalinin.github.io/author/syed-s.-husain/index.xml" rel="self" type="application/rss+xml" />
     <description>Syed S. Husain</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Alexandr Kalinin</copyright><lastBuildDate>Wed, 12 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Alexandr Kalinin</copyright><lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alxndrkalinin.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Syed S. Husain</title>
       <link>https://alxndrkalinin.github.io/author/syed-s.-husain/</link>
     </image>
+    
+    <item>
+      <title>SOCRAT: A Dynamic Web Toolbox for Interactive Data Processing, Analysis and Visualization</title>
+      <link>https://alxndrkalinin.github.io/publication/2022-information-socrat/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://alxndrkalinin.github.io/publication/2022-information-socrat/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>3D Shape Modeling for Cell Nuclear Morphological Analysis and Classification</title>
